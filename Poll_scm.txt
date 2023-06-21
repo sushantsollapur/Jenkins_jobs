@@ -2,3 +2,6 @@ this is poll scm test
 
 more projects in this machine 
 add more files 
+needn to change something 
+add more icons
+make it 
